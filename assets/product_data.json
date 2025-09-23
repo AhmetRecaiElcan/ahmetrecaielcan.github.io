@@ -199,5 +199,32 @@
             "McDonald's",
             "Burger King"
         ]
+    },
+    {
+        "title": "Yerli Markalar",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/turkey-new.png",
+        "date": "Ocak 2024 İtibariyle",
+        "products": [
+            "ETİ",
+            "TORKU",
+            "ÜLKER",
+            "BİM",
+            "A101",
+            "ŞOK",
+            "BİMSA",
+            "KİPA",
+            "MIGROS",
+            "CARREFOURSA",
+            "SÜTAŞ",
+            "PAMUKKALE SU",
+            "ÇAYKUR",
+            "TAT",
+            "DARDANEL",
+            "BANVİT",
+            "BİMTAŞ",
+            "NURSAÇAN",
+            "YAYLA",
+            "KENT BAKLİYAT"
+        ]
     }
 ]
