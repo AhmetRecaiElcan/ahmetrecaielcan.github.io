@@ -202,29 +202,12 @@
     },
     {
         "title": "Yerli Markalar",
-        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/turkey-new.png",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/yerli_boykot.png",
         "date": "Ocak 2024 İtibariyle",
         "products": [
-            "ETİ",
-            "TORKU",
-            "ÜLKER",
-            "BİM",
-            "A101",
-            "ŞOK",
-            "BİMSA",
-            "KİPA",
-            "MIGROS",
-            "CARREFOURSA",
-            "SÜTAŞ",
-            "PAMUKKALE SU",
-            "ÇAYKUR",
-            "TAT",
-            "DARDANEL",
-            "BANVİT",
-            "BİMTAŞ",
-            "NURSAÇAN",
-            "YAYLA",
-            "KENT BAKLİYAT"
+            "GS Store",
+            "Fenerium",
+            "Yapı Kredi"
         ]
     }
 ]
