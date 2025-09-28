@@ -40,6 +40,31 @@
         ]
     },
     {
+        "title": "Auto",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/loreal-new.png",
+        "date": "Eylül 2025 İtibariyle",
+        "products": [
+            "HYUNDAİ",
+            "VOLKSWAGEN",
+            "TESLA",
+            "BMW",
+            "VOLVO",
+            "KİA",
+            "AUDİ",
+            "SEAT",
+            "MERCEDES-BENZ",
+            "PORSCHE",
+            "HİDROMEK",
+            "BUGATTI",
+            "ROLLS-ROYCE",
+            "DODGE",
+            "GENERAL MOTORS",
+            "MAN TRUCKS",
+            "JCB",
+            "SCANİA"
+        ]
+    },
+    {
         "title": "RECKITT",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/reckitt-new.png",
         "date": "Ocak 2024 İtibariyle",
