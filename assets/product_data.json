@@ -139,6 +139,19 @@
         ]
     },
     {
+        "title": "PETROL",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/loreal-new.png",
+        "date": "Eylül 2025 İtibariyle",
+        "products": [
+            "PETROL OFİS",
+            "SHELL",
+            "OPET",
+            "SOCAR",
+            "SUNPET",
+            "BP"
+        ]
+    },
+    {
         "title": "COCA COLA",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/cocacola-new.png",
         "date": "Ocak 2024 İtibariyle",
