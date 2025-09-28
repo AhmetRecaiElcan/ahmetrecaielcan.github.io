@@ -222,7 +222,8 @@
         "products": [
             "Starbucks",
             "McDonald's",
-            "Burger King"
+            "Burger King",
+            "Amazon"
         ]
     },
     {
@@ -232,7 +233,11 @@
         "products": [
             "GS Store",
             "Fenerium",
-            "Yapı Kredi"
+            "Yapı Kredi",
+            "Carrefour",
+            "AXA Sigorta",
+            "Kahve Dünyası",
+            "Ülker"
         ]
     }
 ]
