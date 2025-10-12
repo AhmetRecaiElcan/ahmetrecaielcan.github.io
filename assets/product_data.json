@@ -1,5 +1,15 @@
 [
     {
+        "title": "FERRERO",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/loreal-new.png",
+        "date": "Ekim 2025 İtibariyle",
+        "products": [
+            "KİNDER",
+            "NUTELLA",
+            "FERRERO ROCHER"
+        ]
+    },
+    {
         "title": "MONDELEZ",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/honorable/main/assets/img/mondelez-new.png",
         "date": "Ocak 2024 İtibariyle",
