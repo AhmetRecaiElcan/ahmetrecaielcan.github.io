@@ -1,5 +1,17 @@
 [
     {
+        "title": "Electronics",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/technolgia.png",
+        "date": "Ekim 2025 İtibariyle",
+        "products": [
+           "HP",
+           "DELL",
+           "SIMENS",
+           "CISCO",
+           "INTEL"
+        ]
+    },
+    {
         "title": "Clothes",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/clothes.png",
         "date": "Ekim 2025 İtibariyle",
