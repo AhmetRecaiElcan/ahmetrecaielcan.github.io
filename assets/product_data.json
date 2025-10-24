@@ -1,5 +1,23 @@
 [
     {
+        "title": "Coffeae",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/food_beverage.png",
+        "date": "Ekim 2025 İtibariyle",
+        "products": [
+            "TCHİBO",
+            "JACOBS",
+            "CAFE CROWN",
+            "ILLY",
+            "LAVAZZA",
+            "CARİBOU COFFEE",
+            "DOLCE GUSTO",
+            "COSTA COFFEE",
+            "COFFE MATE",
+            "TASSİMO",
+            "PRET-A-MANGER"
+        ]
+    },
+    {
         "title": "Electronics",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/technolgia.png",
         "date": "Ekim 2025 İtibariyle",
@@ -313,7 +331,11 @@
             "McDonald's",
             "Burger King",
             "Amazon",
-            "NIVEA"
+            "NIVEA",
+            "SABRA",
+            "SODA STREAM",
+            "STRAUSS GROUP",
+            "TNUVA"
         ]
     },
     {
