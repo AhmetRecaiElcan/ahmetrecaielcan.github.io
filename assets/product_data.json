@@ -1,5 +1,25 @@
 [
     {
+        "title": "Expedia",
+        "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/food_beverage.png",
+        "date": "Ekim 2025 İtibariyle",
+        "products": [
+           "Expedia.com",
+           "Hotels.com",
+           "Trivago",
+           "Vrbo",
+           "Travelocity",
+           "Hotwire",
+           "Orbitz",
+           "ebookers",
+           "CheapTickets",
+           "Expedia Cruises",
+           "Wotif",
+           "CarRentals",
+           "Egencia"
+        ]
+    },
+    {
         "title": "Coffeae",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/food_beverage.png",
         "date": "Ekim 2025 İtibariyle",
