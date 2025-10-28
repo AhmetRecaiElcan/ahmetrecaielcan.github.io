@@ -1,4 +1,23 @@
 [
+    {"title": "TripAdvisor",
+     "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/tripadvisor.png",
+     "date": "Ekim 2025 İtibariyle",
+     "products": [
+         "BOKUN.IO",
+         "CRUISECRITIC",
+         "FLIPKEY",
+         "THEFORK",
+         "HELLORECO",
+         "HOLIDAYLETTINGS",
+         "HOUSETRIP",
+         "JETSETTER",
+         "NIUMBA",
+         "SEATGURU",
+         "SINGLEPLATFORM",
+         "VACATIONHOMERENTALS",
+         "VIATOR"
+     ]
+    },
     {
         "title": "Expedia",
         "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/expedia.png",
