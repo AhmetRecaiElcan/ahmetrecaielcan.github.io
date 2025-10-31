@@ -1,5 +1,30 @@
 [
-    {"title": "TripAdvisor",
+    {"title":"Teva",
+     "image":"https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/teva.png",
+     "date":"Ekim 2025 İtibariyle",
+    "products": [
+      "ALLEN & HANBURYS",
+      "ASSIA",
+      "AUSPEX PHARMACEUTICALS",
+      "CEPHALON",
+      "GECKO HEALTH INNOVATIONS",
+      "GLAXO",
+      "IKAPHARM",
+      "IVAX CORPORATION",
+      "LABRYS BIOLOGICS",
+      "MARGARINE UNIE",
+      "MICRODOSE",
+      "NOVOPHARM",
+      "NUPATHE",
+      "PLANTEX",
+      "RIMSA",
+      "SALOMON, LEVIN, AND ELSTEIN LTD",
+      "TAIYO PHARMACEUTICAL INDUSTRY",
+      "ZORİ"
+     ]
+    },
+    {
+     "title": "TripAdvisor",
      "image": "https://raw.githubusercontent.com/AhmetRecaiElcan/ahmetrecaielcan.github.io/refs/heads/main/assets/logos/tripadvisor.png",
      "date": "Ekim 2025 İtibariyle",
      "products": [
@@ -71,7 +96,11 @@
            "FİVERR",
            "MONDAY",
            "TABNİNE",
-           "WİX"
+           "WİX",
+           "SAMSUNG",
+           "DANSKE BANK",
+           "HSBC",
+           "JPMORGAN CHASE"
         ]
     },
     {
